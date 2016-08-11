@@ -1,0 +1,37 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+}
+
+#page {
+	height: 100%;
+}
+
+.ace_editor {
+    min-height: 600px;
+    font-family: monospace;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.navbar-fixed-bottom .navbar-text {
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+.navbar-fixed-bottom {
+	min-height: 0px;
+}
+
+#editor {
+	height: 100%;
+}
+
+#output {
+	margin-right: 2em;
+}

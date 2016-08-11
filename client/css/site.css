@@ -1,0 +1,45 @@
+body {
+}
+
+.resultrow {
+	font-family: monospace;
+}
+
+.popover {
+	max-width: 100%;
+}
+
+.results, .output {
+	width: 800px;
+}
+
+.popover.bottom {
+	margin-left: -100px;	/* Shift popover left to avoid clipping on the right */
+}
+
+.left-inner-addon {
+    position: relative;
+}
+.left-inner-addon input {
+    padding-left: 30px;    
+}
+.left-inner-addon i {
+    position: absolute;
+    padding: 10px 12px;
+}
+
+#results .panel-body {
+	overflow-y: auto;
+	max-height: 600px;
+}
+
+#output .panel-body {
+	overflow-y: auto;
+	max-height: 600px;	
+}
+
+.growl {
+	top: 70px;
+	z-index: 9999;
+	width: 600px;
+}
