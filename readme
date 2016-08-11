@@ -1,0 +1,5 @@
+1. Once installed, go into terminal and navigate to the server folder inside of acolyte
+2. run command "node app.js"
+3. Go into your browser and go to "localhost:3000/editor.html"
+4. Press 'okay' for the server prompt and then chose your namespace
+5. Code away!
